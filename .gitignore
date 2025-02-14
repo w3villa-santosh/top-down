@@ -10,6 +10,30 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 /[Uu]serSettings/
+<<<<<<< HEAD
+# Ignore Unity Library, Cache, and Temp files
+Library/
+Temp/
+Logs/
+UserSettings/
+Library/ArtifactDB
+Library/Bee/
+Library/PackageCache/
+Library/ShaderCache.db
+# Ignore Unity auto-generated files
+Library/
+Logs/
+Temp/
+UserSettings/
+Library/
+Temp/
+Logs/
+UserSettings/
+MemoryCaptures/
+Library/PackageCache/
+Library/PackageCache/com.unity.burst@*/.Runtime/libburst-llvm-16.dylib
+=======
+>>>>>>> 6676580005daaec4addc1ea03b30ee2d423442bf
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -61,4 +85,8 @@ crashlytics-build.properties
 
 # User Credentials for Editor
 Assets/ScriptableObjects/MyUserCredentials.asset
+<<<<<<< HEAD
 Assets/ScriptableObjects/MyUserCredentials.asset.meta
+=======
+Assets/ScriptableObjects/MyUserCredentials.asset.meta
+>>>>>>> 6676580005daaec4addc1ea03b30ee2d423442bf

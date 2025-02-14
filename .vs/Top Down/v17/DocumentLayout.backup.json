@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W3villa\\Documents\\UnityProjects\\Top Down\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F016BF2D-B061-51B7-2D59-10E80E1E8725}|TopDown.Camera.csproj|c:\\users\\w3villa\\documents\\unityprojects\\top down\\assets\\scripts\\camera\\topdowncamerahandller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F016BF2D-B061-51B7-2D59-10E80E1E8725}|TopDown.Camera.csproj|solutionrelative:assets\\scripts\\camera\\topdowncamerahandller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F016BF2D-B061-51B7-2D59-10E80E1E8725}|TopDown.Camera.csproj|C:\\Users\\W3villa\\Documents\\UnityProjects\\Top Down\\assets\\scripts\\camera\\editor\\topdowncameraeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F016BF2D-B061-51B7-2D59-10E80E1E8725}|TopDown.Camera.csproj|solutionrelative:assets\\scripts\\camera\\editor\\topdowncameraeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopdownCameraHandller.cs",
+              "DocumentMoniker": "C:\\Users\\W3villa\\Documents\\UnityProjects\\Top Down\\Assets\\Scripts\\Camera\\TopdownCameraHandller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\TopdownCameraHandller.cs",
+              "ToolTip": "C:\\Users\\W3villa\\Documents\\UnityProjects\\Top Down\\Assets\\Scripts\\Camera\\TopdownCameraHandller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\TopdownCameraHandller.cs",
+              "ViewState": "AgIAAAsAAACAmZmZmZkVwCgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:59:42.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopdownCameraEditor.cs",
+              "DocumentMoniker": "C:\\Users\\W3villa\\Documents\\UnityProjects\\Top Down\\Assets\\Scripts\\Camera\\Editor\\TopdownCameraEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\Editor\\TopdownCameraEditor.cs",
+              "ToolTip": "C:\\Users\\W3villa\\Documents\\UnityProjects\\Top Down\\Assets\\Scripts\\Camera\\Editor\\TopdownCameraEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\Editor\\TopdownCameraEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:58:52.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
