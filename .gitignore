@@ -13,7 +13,6 @@
 <<<<<<< HEAD
 # Ignore Unity Library, Cache, and Temp files
 Library/
-Temp/
 Logs/
 UserSettings/
 Library/ArtifactDB
